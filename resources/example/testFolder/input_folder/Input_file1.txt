@@ -1,0 +1,6 @@
+dummy1,Teens,sitting,dummy3
+dummy2,Grannies,laid_down,dummy1
+dummy2,Adults,standing,dummy1
+dummy1,Teens,running,dummy3
+dummy3,Pensioneers,sitting,dummy1
+dummy2,Grannies,sitting,dummy3

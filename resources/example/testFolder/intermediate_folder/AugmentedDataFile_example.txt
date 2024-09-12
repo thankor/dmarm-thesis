@@ -1,0 +1,17 @@
+dummy1,Teens-age-2,sitting-movement-2,dummy3,Young-age-1,all_ages-age-0,not_moving-movement-1,all_movement-movement-0
+dummy2,Grannies-age-2,laid_down-movement-2,dummy1,Old-age-1,all_ages-age-0,not_moving-movement-1,all_movement-movement-0
+dummy2,Adults-age-2,standing-movement-2,dummy1,Young-age-1,all_ages-age-0,not_moving-movement-1,all_movement-movement-0
+dummy1,Teens-age-2,running-movement-2,dummy3,Young-age-1,all_ages-age-0,moving-movement-1,all_movement-movement-0
+dummy3,Pensioneers-age-2,sitting-movement-2,dummy1,Old-age-1,all_ages-age-0,not_moving-movement-1,all_movement-movement-0
+dummy2,Grannies-age-2,sitting-movement-2,dummy3,Old-age-1,all_ages-age-0,not_moving-movement-1,all_movement-movement-0
+dummy2,dummy3,dummy1,dummy4
+dummy2,dummy3,dummy1
+dummy3,dummy2,dummy4
+dummy1,Pensioneers-age-2,standing-movement-2,dummy3,Old-age-1,all_ages-age-0,not_moving-movement-1,all_movement-movement-0
+dummy3,Grannies-age-2,laid_down-movement-2,dummy2,Old-age-1,all_ages-age-0,not_moving-movement-1,all_movement-movement-0
+dummy2,Teens-age-2,running-movement-2,dummy4,Young-age-1,all_ages-age-0,moving-movement-1,all_movement-movement-0
+dummy3,Pensioneers-age-2,standing-movement-2,dummy1,Old-age-1,all_ages-age-0,not_moving-movement-1,all_movement-movement-0
+dummy3,Grannies-age-2,walking_up-movement-3,dummy1,Old-age-1,all_ages-age-0,walking-movement-2,moving-movement-1,all_movement-movement-0
+dummy1,dummy3,dummy4
+dummy2,dummy4,dummy1
+dummy3,dummy2,dummy1

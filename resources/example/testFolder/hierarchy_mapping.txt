@@ -1,0 +1,4 @@
+Input_file1.txt,age,2
+Input_file1.txt,movement,3
+Input_file3.txt,age,2
+Input_file3.txt,movement,3

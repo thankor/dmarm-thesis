@@ -1,0 +1,5 @@
+dummy1,Pensioneers,standing,dummy3
+dummy3,Grannies,laid_down,dummy2
+dummy2,Teens,running,dummy4
+dummy3,Pensioneers,standing,dummy1
+dummy3,Grannies,walking_up,dummy1

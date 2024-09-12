@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hierarchy name="movement" levels="4" nodes="10">
+	<node level="0" type="root" id="1">
+		<name>all_movement</name>
+		<parent_node>-1</parent_node>
+	</node>
+	<node level="1" type="node" id="2">
+		<name>not_moving</name>
+		<parent_node>1</parent_node>
+	</node>
+	<node level="1" type="node" id="3">
+		<name>moving</name>
+		<parent_node>1</parent_node>
+	</node>
+	<node level="2" type="leaf" id="4">
+		<name>standing</name>
+		<parent_node>2</parent_node>
+	</node>
+	<node level="2" type="leaf" id="5">
+		<name>sitting</name>
+		<parent_node>2</parent_node>
+	</node>
+	<node level="2" type="leaf" id="6">
+		<name>laid_down</name>
+		<parent_node>2</parent_node>
+	</node>
+	<node level="2" type="node" id="7">
+		<name>walking</name>
+		<parent_node>3</parent_node>
+	</node>
+	<node level="2" type="leaf" id="8">
+		<name>running</name>
+		<parent_node>3</parent_node>
+	</node>
+	<node level="3" type="leaf" id="9">
+		<name>walking_up</name>
+		<parent_node>7</parent_node>
+	</node>
+	<node level="3" type="leaf" id="10">
+		<name>walking_down</name>
+		<parent_node>7</parent_node>
+	</node>
+</hierarchy>

@@ -1,0 +1,4 @@
+Grannies-age-2#dummy1#Old-age-1#sitting-movement-2#not_moving-movement-1	7
+Teens-age-2#dummy2#Young-age-1#running-movement-2#moving-movement-1	5
+Pensioneers-age-2#dummy1#Old-age-1#sitting-movement-2#not_moving-movement-1	10
+Adults-age-2#dummy3#Young-age-1#standing-movement-2#moving-movement-1	3

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+	<property name ="input_folder">
+		<value>C:\Users\Thanos\Desktop\master-thesis\resources\example\testFolder\input_folder</value>
+	</property>
+	<property name ="hierarchies_folder">
+		<value>C:\Users\Thanos\Desktop\master-thesis\resources\example\testFolder\hierarchies_folder</value>
+	</property>
+	<property name ="output_folder">
+		<value>C:\Users\Thanos\Desktop\master-thesis\resources\example\testFolder\output_folder</value>
+	</property>
+	<property name ="mapping_file">
+		<value>C:\Users\Thanos\Desktop\master-thesis\resources\example\testFolder\hierarchy_mapping.txt</value>
+	</property>
+</configuration>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hierarchy name="age" levels="3" nodes="8">
+	<node level="0" type="root" id="1">
+		<name>all_ages</name>
+		<parent_node>-1</parent_node>
+	</node>
+	<node level="1" type="node" id="2">
+		<name>Young</name>
+		<parent_node>1</parent_node>
+	</node>
+	<node level="1" type="node" id="3">
+		<name>Old</name>
+		<parent_node>1</parent_node>
+	</node>
+	<node level="2" type="leaf" id="4">
+		<name>Children</name>
+		<parent_node>2</parent_node>
+	</node>
+	<node level="2" type="leaf" id="5">
+		<name>Teens</name>
+		<parent_node>2</parent_node>
+	</node>
+	<node level="2" type="leaf" id="6">
+		<name>Adults</name>
+		<parent_node>2</parent_node>
+	</node>
+	<node level="2" type="leaf" id="7">
+		<name>Pensioneers</name>
+		<parent_node>3</parent_node>
+	</node>
+	<node level="2" type="leaf" id="8">
+		<name>Grannies</name>
+		<parent_node>3</parent_node>
+	</node>
+</hierarchy>

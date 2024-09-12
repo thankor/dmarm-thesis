@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report minConfidence="0.5" minSupport="0.5" name="DMARM Report" rules="13">
+    <rule id="1">
+        <antecedent>dummy1, sitting-movement-2, not_moving-movement-1</antecedent>
+        <consequent>Old-age-1, Pensioneers-age-2</consequent>
+        <confidence>0.5</confidence>
+        <support>0.59</support>
+    </rule>
+    <rule id="2">
+        <antecedent>Pensioneers-age-2, sitting-movement-2</antecedent>
+        <consequent>Old-age-1, dummy1, not_moving-movement-1</consequent>
+        <confidence>1.0</confidence>
+        <support>0.59</support>
+    </rule>
+    <rule id="3">
+        <antecedent>Old-age-1, sitting-movement-2, not_moving-movement-1</antecedent>
+        <consequent>dummy1, Pensioneers-age-2</consequent>
+        <confidence>0.5</confidence>
+        <support>0.59</support>
+    </rule>
+    <rule id="4">
+        <antecedent>Old-age-1, sitting-movement-2</antecedent>
+        <consequent>dummy1, Pensioneers-age-2, not_moving-movement-1</consequent>
+        <confidence>0.5</confidence>
+        <support>0.59</support>
+    </rule>
+    <rule id="5">
+        <antecedent>Old-age-1, Pensioneers-age-2, sitting-movement-2</antecedent>
+        <consequent>dummy1, not_moving-movement-1</consequent>
+        <confidence>1.0</confidence>
+        <support>0.59</support>
+    </rule>
+    <rule id="6">
+        <antecedent>Old-age-1, Pensioneers-age-2, sitting-movement-2, not_moving-movement-1</antecedent>
+        <consequent>dummy1</consequent>
+        <confidence>1.0</confidence>
+        <support>0.59</support>
+    </rule>
+    <rule id="7">
+        <antecedent>Pensioneers-age-2, sitting-movement-2, not_moving-movement-1</antecedent>
+        <consequent>Old-age-1, dummy1</consequent>
+        <confidence>1.0</confidence>
+        <support>0.59</support>
+    </rule>
+    <rule id="8">
+        <antecedent>Old-age-1, dummy1, Pensioneers-age-2, sitting-movement-2</antecedent>
+        <consequent>not_moving-movement-1</consequent>
+        <confidence>1.0</confidence>
+        <support>0.59</support>
+    </rule>
+    <rule id="9">
+        <antecedent>dummy1, sitting-movement-2</antecedent>
+        <consequent>Old-age-1, Pensioneers-age-2, not_moving-movement-1</consequent>
+        <confidence>0.5</confidence>
+        <support>0.59</support>
+    </rule>
+    <rule id="10">
+        <antecedent>dummy1, Pensioneers-age-2, sitting-movement-2, not_moving-movement-1</antecedent>
+        <consequent>Old-age-1</consequent>
+        <confidence>1.0</confidence>
+        <support>0.59</support>
+    </rule>
+    <rule id="11">
+        <antecedent>Old-age-1, dummy1, sitting-movement-2, not_moving-movement-1</antecedent>
+        <consequent>Pensioneers-age-2</consequent>
+        <confidence>1.0</confidence>
+        <support>0.59</support>
+    </rule>
+    <rule id="12">
+        <antecedent>dummy1, Pensioneers-age-2, sitting-movement-2</antecedent>
+        <consequent>Old-age-1, not_moving-movement-1</consequent>
+        <confidence>1.0</confidence>
+        <support>0.59</support>
+    </rule>
+    <rule id="13">
+        <antecedent>Old-age-1, dummy1, sitting-movement-2</antecedent>
+        <consequent>Pensioneers-age-2, not_moving-movement-1</consequent>
+        <confidence>1.0</confidence>
+        <support>0.59</support>
+    </rule>
+</report>
